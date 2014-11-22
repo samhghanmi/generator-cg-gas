@@ -27,7 +27,7 @@ In this example, the user has chosen to group the app into an `admin` folder, a 
     app.scss ........................... main app-wide styles
     app.js ............................. angular module initialization and route setup
     index.html ......................... main HTML file
-    gulfile.js ......................... Gulp build file
+    gulpfile.js ......................... Gulp build file
     /app ............................... Root Application
       /modules ......................... Main folder for modularizerd app
         /admin ......................... example admin module folder
